@@ -1,0 +1,8 @@
+########### Mongo DB ##########
+spring: 
+  data: 
+    mongodb:
+      #host: localhost 
+      #port: 27017
+      #database: my_test_data
+      uri: mongodb://localhost/my_test_data
